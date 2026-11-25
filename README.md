@@ -1,6 +1,6 @@
 # Vitrine - projeto final de HTML5 e CSS3
 
-Site demonstrativo de compra e venda feito somente com HTML5 e CSS3, sem JavaScript, backend ou dependencias. Para abrir, carregue `html/index.html` no navegador.
+Site demonstrativo de compra e venda feito somente com HTML5 e CSS3, backend ou dependencias. Para abrir, carregue `html/index.html` no navegador.
 
 ## Estrutura
 
@@ -24,30 +24,19 @@ Site demonstrativo de compra e venda feito somente com HTML5 e CSS3, sem JavaScr
 
 ## Prints de testes diferentes (Flexbox teste)
 - 375
+- 
   <img width="375" height="810" alt="tela-375png" src="https://github.com/user-attachments/assets/b3536096-c26a-4abb-b240-819d06a020f3" />
+
 -768
+
   <img width="663" height="879" alt="tela-768png" src="https://github.com/user-attachments/assets/a90fec11-2f49-44f8-8546-de0ec14f7921" />
+  
 -1366
+
   <img width="1309" height="734" alt="tela-1366" src="https://github.com/user-attachments/assets/c649e419-76aa-427d-b655-ff681bbf8b9f" />
 
 
 
-Faca capturas reais da pagina inicial nas larguras de 375 px, 768 px e 1366 px. Salve cada imagem em `screenshots/` com o nome da tabela e substitua o marcador pela imagem no README.
-
-| Largura | Arquivo | Captura |
-|---|---|---|
-| 375 px | `screenshots/tela-375.png` | PENDENTE - inserir captura |
-| 768 px | `screenshots/tela-768.png` | PENDENTE - inserir captura |
-| 1366 px | `screenshots/tela-1366.png` | PENDENTE - inserir captura |
-
-Depois, insira no README usando: `![Tela 375 px](screenshots/tela-375.png)`, `![Tela 768 px](screenshots/tela-768.png)` e `![Tela 1366 px](screenshots/tela-1366.png)`.
-
 ## Limites da versao sem JavaScript
 
 Busca e filtros automaticos, favoritos salvos, login, envio de chat e publicacao de anuncios precisam de JavaScript ou de um servico e nao estao ativos nesta versao. A pagina Favoritos mostra uma selecao estatica. Links e menu funcionam com HTML.
-
-## Entrega
-
-- Repositorio GitHub: PENDENTE - inserir o link.
-- Apresentacao: apresentar em sala com o grupo ou gravar e compartilhar um video de aproximadamente 15 minutos, conforme a orientacao do professor.
-- Pontuacao extra: banco de dados/API nao incluido nesta versao.
