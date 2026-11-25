@@ -23,8 +23,9 @@ Site demonstrativo de compra e venda feito somente com HTML5 e CSS3, backend ou 
 - **Organizacao:** HTML, CSS e imagens estao em pastas separadas.
 
 ## Prints de testes diferentes (Flexbox teste)
+
 - 375
-- 
+ 
   <img width="375" height="810" alt="tela-375png" src="https://github.com/user-attachments/assets/b3536096-c26a-4abb-b240-819d06a020f3" />
 
 - 768
