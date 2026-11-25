@@ -22,7 +22,15 @@ Site demonstrativo de compra e venda feito somente com HTML5 e CSS3, sem JavaScr
 - **Interacao CSS:** estados `:hover` e `:focus-visible`; o controle do tema claro/escuro usa checkbox e CSS. O tema vale enquanto a pagina esta aberta e reinicia ao navegar.
 - **Organizacao:** HTML, CSS e imagens estao em pastas separadas.
 
-## Espacos para as capturas
+## Prints de testes diferentes (Flexbox teste)
+- 375
+  <img width="375" height="810" alt="tela-375png" src="https://github.com/user-attachments/assets/b3536096-c26a-4abb-b240-819d06a020f3" />
+-768
+  <img width="663" height="879" alt="tela-768png" src="https://github.com/user-attachments/assets/a90fec11-2f49-44f8-8546-de0ec14f7921" />
+-1366
+  <img width="1309" height="734" alt="tela-1366" src="https://github.com/user-attachments/assets/c649e419-76aa-427d-b655-ff681bbf8b9f" />
+
+
 
 Faca capturas reais da pagina inicial nas larguras de 375 px, 768 px e 1366 px. Salve cada imagem em `screenshots/` com o nome da tabela e substitua o marcador pela imagem no README.
 
