@@ -7,8 +7,6 @@ Site demonstrativo de compra e venda feito somente com HTML5 e CSS3, backend ou 
 - `html/`: cinco paginas HTML distintas e ligadas pelo mesmo menu.
 - `css/styles.css`: estilos externos, BEM, Flexbox, Grid, tema escuro e media queries.
 - `images/`: ilustracoes SVG locais usadas nos anuncios.
-- `screenshots/`: pasta das capturas exigidas pelo enunciado.
-- `ROTEIRO-VIDEO.md`: roteiro para uma gravacao de aproximadamente 15 minutos.
 
 ## Requisitos do PDF
 
@@ -37,10 +35,6 @@ Site demonstrativo de compra e venda feito somente com HTML5 e CSS3, backend ou 
   <img width="1309" height="734" alt="tela-1366" src="https://github.com/user-attachments/assets/c649e419-76aa-427d-b655-ff681bbf8b9f" />
 
 
-
-## Limites da versao sem JavaScript
-
-Busca e filtros automaticos, favoritos salvos, login, envio de chat e publicacao de anuncios precisam de JavaScript ou de um servico e nao estao ativos nesta versao. A pagina Favoritos mostra uma selecao estatica. Links e menu funcionam com HTML.
 
 ## repositorio github
  - https://github.com/elias990/site
